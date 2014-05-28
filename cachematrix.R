@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## this function caches the matrix and calls the solve function to set the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
